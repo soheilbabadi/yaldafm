@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/yaldaAI/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yaldaCatalog/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yaldaChat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yaldaGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yaldaGateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yaldaIdentity/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yaldaNotification/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yaldaPayment/src/main/java" charset="UTF-8" />

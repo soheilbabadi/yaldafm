@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/yaldaAI" />
     <file type="web" url="file://$PROJECT_DIR$/yaldaCatalog" />
     <file type="web" url="file://$PROJECT_DIR$/yaldaChat" />
+    <file type="web" url="file://$PROJECT_DIR$/yaldaGateway" />
     <file type="web" url="file://$PROJECT_DIR$/yaldaIdentity" />
     <file type="web" url="file://$PROJECT_DIR$/yaldaNotification" />
     <file type="web" url="file://$PROJECT_DIR$/yaldaPayment" />
@@ -19,6 +20,7 @@
         <option value="$PROJECT_DIR$/yaldaNotification/pom.xml" />
         <option value="$PROJECT_DIR$/yaldaPayment/pom.xml" />
         <option value="$PROJECT_DIR$/yaldaSupport/pom.xml" />
+        <option value="$PROJECT_DIR$/yaldaGateway/pom.xml" />
       </list>
     </option>
   </component>

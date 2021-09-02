@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/yaldaAI/yaldaAI.iml" filepath="$PROJECT_DIR$/yaldaAI/yaldaAI.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaldaCatalog/yaldaCatalog.iml" filepath="$PROJECT_DIR$/yaldaCatalog/yaldaCatalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaldaChat/yaldaChat.iml" filepath="$PROJECT_DIR$/yaldaChat/yaldaChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaldaGateway/yaldaGateway.iml" filepath="$PROJECT_DIR$/yaldaGateway/yaldaGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaldaIdentity/yaldaIdentity.iml" filepath="$PROJECT_DIR$/yaldaIdentity/yaldaIdentity.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaldaNotification/yaldaNotification.iml" filepath="$PROJECT_DIR$/yaldaNotification/yaldaNotification.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaldaPayment/yaldaPayment.iml" filepath="$PROJECT_DIR$/yaldaPayment/yaldaPayment.iml" />
