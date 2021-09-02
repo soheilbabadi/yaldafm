@@ -16,13 +16,24 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="yaldaAI" target="1.5" />
-      <module name="yaldaCatalog" target="1.5" />
-      <module name="yaldaChat" target="1.5" />
-      <module name="yaldaIdentity" target="1.5" />
-      <module name="yaldaNotification" target="1.5" />
-      <module name="yaldaPayment" target="1.5" />
-      <module name="yaldaSupport" target="1.5" />
+      <module name="yaldaAI" target="16" />
+      <module name="yaldaCatalog" target="16" />
+      <module name="yaldaChat" target="16" />
+      <module name="yaldaIdentity" target="16" />
+      <module name="yaldaNotification" target="16" />
+      <module name="yaldaPayment" target="16" />
+      <module name="yaldaSupport" target="16" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="yaldaAI" options="-parameters" />
+      <module name="yaldaCatalog" options="-parameters" />
+      <module name="yaldaChat" options="-parameters" />
+      <module name="yaldaIdentity" options="-parameters" />
+      <module name="yaldaNotification" options="-parameters" />
+      <module name="yaldaPayment" options="-parameters" />
+      <module name="yaldaSupport" options="-parameters" />
+    </option>
   </component>
 </project>

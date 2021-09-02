@@ -3,13 +3,11 @@
     <output-path>$PROJECT_DIR$/yaldaChat/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <exploded>false</exploded>
         <module>yaldaChat</module>
         <packaging>war</packaging>
-        <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="${project.artifactId}-${project.version}.war">
+    <root id="archive" name="yaldaChat-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="yaldaChat:war exploded" />
     </root>
   </artifact>
